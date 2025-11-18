@@ -1,1 +1,1 @@
-print("Bug fixed") 
+print("Bug fixed successfully!") 
